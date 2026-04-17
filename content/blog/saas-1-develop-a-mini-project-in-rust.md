@@ -3,7 +3,8 @@ title: SaaS-1. Develop a mini project in rust
 date: 2026-04-17T07:14:32.953Z
 ---
 
-新的專案除了串街金流外為了取得使用者信任，我將核心功能編譯成WASM並簽章，在User的瀏覽器端執行，系統部署在Cloudflare worker。整個專案只使用Rust開發(Frontend使用leptos)。
+
+新的專案除了串接金流外為了取得使用者信任，我將核心功能編譯成WASM並簽章，在User的瀏覽器端執行，系統部署在Cloudflare worker。整個專案只使用Rust開發(Frontend使用leptos)。
 
 ### 小收穫
 * Rust + WASM該如何在vscode中除錯

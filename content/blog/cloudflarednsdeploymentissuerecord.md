@@ -3,10 +3,11 @@ title: Cloudflare DNS / Deployment Issue Record
 date: 2026-04-21T18:53:01.000Z
 ---
 
+
 # Cloudflare DNS / Deployment Issue Record
 
-Date: 2026-04-22
-Goal: Switch production URL from `xxx.workers.dev` to custom domain `xxx.online`.
+* Date: 2026-04-22
+* Goal: Switch production URL from `xxx.workers.dev` to custom domain `xxx.online`.
 
 ## 1. URL Updates in Project
 

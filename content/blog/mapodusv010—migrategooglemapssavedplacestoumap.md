@@ -3,6 +3,7 @@ title: Mapodus v0.1.0 — Migrate Google Maps Saved Places to uMap
 date: 2026-07-11T10:39:01.000Z
 ---
 
+
 I just released **Mapodus v0.1.0**, my first open-source tool! 🎉
 
 ## What is Mapodus?
@@ -19,7 +20,7 @@ Mapodus is a desktop application that helps you migrate your **Google Maps Saved
 
 Get the latest release for your platform:
 - macOS: `.dmg`
-- Windows: `.msi`
+- Windows: portable .exe
 - Linux: `.AppImage` / `.tar.gz`
 
 👉 [github.com/splasky/Mapodus/releases/tag/v0.1.0](https://github.com/splasky/Mapodus/releases/tag/v0.1.0)

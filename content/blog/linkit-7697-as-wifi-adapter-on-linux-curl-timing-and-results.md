@@ -6,6 +6,7 @@ date: 2026-07-17T08:20:18.463Z
 
 
 
+
 # LinkIt 7697 `linkit0` iPerf3 and curl timing results
 
 Test time: 2026-07-17 10:59 CST (UTC+08:00)
@@ -289,5 +290,8 @@ The MTU 576 host-daemon default materially changes the result:
 - Concurrent HTTPS still overloads the current RX path, so MTU 576 is a
   workaround, not a complete transport fix.
 
-Thanks for [pico-usb-wifi](https://gitlab.com/baiyibai/pico-usb-wifi) project.
-Next step I will test on milkv-duo256m and deliminate more errors.
+Many thanks of [pico-usb-wifi](https://gitlab.com/baiyibai/pico-usb-wifi) project.
+
+## Doing next
+* Next step I will test on milkv-duo256m and deliminate more errors.
+* ESP32-C6 + SDIO

@@ -3,6 +3,8 @@ title: A new comparsion about esp32c6 and linkit7697 on Linux as coprocessor
 date: 2026-08-26T13:05:09.581Z
 ---
 
+Test by LAN iperf3 server:
+
 | Test | ESP32-C6 | LinkIt 7697 |
 |---|---:|---:|
 | TCP upload, MTU 576 | 2.16 Mbit/s | 0.01 Mbit/s |

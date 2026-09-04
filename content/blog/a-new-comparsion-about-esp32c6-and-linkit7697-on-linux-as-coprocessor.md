@@ -4,7 +4,8 @@ date: 2026-08-26T13:05:09.581Z
 ---
 
 
-Test by LAN iperf3 server:
+## Dev server
+Test by LAN iperf3 server on Ubuntu26.04:
 
 | Test | ESP32-C6 | LinkIt 7697 |
 |---|---:|---:|
@@ -18,7 +19,7 @@ Test by LAN iperf3 server:
 
 **Conclusion:** ESP32-C6 provides substantially higher throughput, lower latency, and better stability than LinkIt 7697.
 
-### Duo test:
+## Duo test:
 ```
 - Duo → Server：2.96 Mbit/s receiver，0 retransmits
 - Server → Duo：4.18 Mbit/s receiver，4 retransmits

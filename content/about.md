@@ -4,4 +4,4 @@
 * Youtube: https://www.youtube.com/@hychang-tw
 * connect via email: gh00653@duck.com
 * Resume: https://drive.google.com/file/d/1r584f11ea6HqPucqtHfhkiBv3vv5lxp3/view?usp=drive_link
-* Or send a private on Meshtastic: [Meshtastic 51d0](https://meshmap.pro/node/1770148304)
+* Or send a private message on Meshtastic: [Meshtastic 51d0](https://meshmap.pro/node/1770148304)
